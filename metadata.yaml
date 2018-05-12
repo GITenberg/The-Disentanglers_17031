@@ -1,0 +1,55 @@
+_repo: The-Disentanglers_17031
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Whatever Mr. Andrew Lang writes he writes well. There is nish and polish
+  to his work, the desiderata in all species of labor, but more especially in literature.
+  His latest book, The Disentanglers, tends further to strengthen this generality.
+  The plot of the book may best be given in the words of its originators, two young
+  and impecunious gentlemen of London, as unfolded in the rst chapter, appropriately
+  entitled The Great Idea; " Family rows about marriages. . . . The problem for the
+  family, for hundreds of families, is to get the undesirable marriage o without the
+  usual row. Very few people really like a row. . . . They want a pacic solution-marriage
+  on, no remonstrances. . . . We are going to do it by a scientic and thoroughly organized
+  system of disengaging or disentangling. We enlist a lot of girls and fellows like
+  ourselves, beautiful, attractive, young, or not so young, well connected, intellectual,
+  athletic, but all broke. . We send them out on demand, carefully selecting our agents
+  to meet the circumstances in every case." The plot, as thus roughly sketched, presents
+  almost unlimited poten- tialities, which Mr. Lang has fully utilized in the eleven
+  stories that follow. This book is fully illustrated and annotated with a rare extensive
+  biographical sketch of the author, Andrew Lang, written by Sir Edmund Gosse, CB,
+  a contemporary poet and writer.
+gutenberg_issued: '2005-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: 'The great idea -- From the highways and hedges -- Adventure of the
+  first clients -- Adventure of the rich uncle -- Adventure of the office screen --
+  A lover in cocky -- Adventure of the exemplary earl : The earl''s long-lost cousin
+  ; The affair of the Jesuit -- Adventure of the lady patroness -- Adventure of the
+  lady novelist and the vaccinationist -- Adventure of the fair American : The prize
+  of a lady''s hand ; The adventure of the muddy pearls -- Adventure of the miserly
+  marquis : The marquis consults Gray and Graham ; The emu''s feathers ; A romance
+  of Bradshaw ; Greek meets Greek -- Adventure of the Canadian heiress : At Castle
+  Skrae ; lost ; Logan to the rescue! ; Adventure of Eachain of the Hairy Arm ; Adventure
+  of the Flora Macdonald.'
+title: The Disentanglers
+url: http://www.gutenberg.org/ebooks/17031
