@@ -29,6 +29,8 @@ description: Whatever Mr. Andrew Lang writes he writes well. There is nish and p
   stories that follow. This book is fully illustrated and annotated with a rare extensive
   biographical sketch of the author, Andrew Lang, written by Sir Edmund Gosse, CB,
   a contemporary poet and writer.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17031#The-Disentanglers
 gutenberg_issued: '2005-11-08'
 gutenberg_type: Text
 identifiers:
